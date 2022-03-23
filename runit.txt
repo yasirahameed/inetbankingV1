@@ -1,0 +1,2 @@
+cd D:\software testing\eclipse\workspace\inetBankingV1
+mvn clean install

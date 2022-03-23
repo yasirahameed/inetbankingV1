@@ -1,0 +1,125 @@
+[INFO ] 2022-03-12 02:41:56.550 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-12 02:42:25.960 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-12 02:42:25.960 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-12 02:42:25.960 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-12 02:42:25.961 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-12 02:42:35.945 [main] BaseClass - opening chrome
+[INFO ] 2022-03-12 02:43:26.431 [main] BaseClass - user name provided
+[INFO ] 2022-03-12 02:43:26.601 [main] BaseClass - password provided
+[INFO ] 2022-03-12 02:43:31.732 [main] BaseClass - Login passed
+[INFO ] 2022-03-12 02:43:39.139 [main] BaseClass - user name provided
+[INFO ] 2022-03-12 02:43:39.250 [main] BaseClass - password provided
+[INFO ] 2022-03-12 02:43:53.563 [main] BaseClass - opening chrome
+[INFO ] 2022-03-12 02:44:06.334 [main] BaseClass - User name is provided
+[INFO ] 2022-03-12 02:44:06.473 [main] BaseClass - Passsword is provided
+[INFO ] 2022-03-12 02:44:20.059 [main] BaseClass - providing customer details....
+[INFO ] 2022-03-15 00:30:26.605 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-15 00:30:32.817 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-15 00:30:32.817 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-15 00:30:32.818 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-15 00:30:32.818 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-15 00:34:11.941 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-15 00:34:19.364 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-15 00:34:19.365 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-15 00:34:19.365 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-15 00:34:19.367 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-15 00:49:00.989 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-15 00:49:11.927 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-15 00:49:11.927 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-15 00:49:11.928 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-15 00:49:11.928 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-15 00:50:36.108 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-15 00:50:43.788 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-15 00:50:43.789 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-15 00:50:43.789 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-15 00:50:43.789 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-15 01:43:50.121 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-15 01:43:58.976 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-15 01:43:58.976 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-15 01:43:58.976 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-15 01:43:58.976 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-15 01:51:43.832 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-15 01:51:51.781 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-15 01:51:51.782 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-15 01:51:51.782 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-15 01:51:51.782 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-16 06:15:59.227 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-16 06:16:07.419 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-16 06:16:07.419 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-16 06:16:07.419 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-16 06:16:07.420 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-16 07:10:20.047 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-16 07:10:28.563 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-16 07:10:28.563 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-16 07:10:28.563 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-16 07:10:28.563 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-17 00:41:57.528 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-17 00:42:03.850 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-17 00:42:03.851 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-17 00:42:03.851 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-17 00:42:03.851 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-17 00:46:24.033 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-17 00:46:31.063 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-17 00:46:31.063 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-17 00:46:31.063 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-17 00:46:31.064 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-17 00:59:48.577 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-17 00:59:56.464 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-17 00:59:56.464 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-17 00:59:56.464 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-17 00:59:56.464 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-18 06:42:31.150 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-18 06:42:39.425 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-18 06:42:39.427 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-18 06:42:39.428 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-18 06:42:39.429 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-22 06:28:52.219 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-22 06:28:57.944 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-22 06:28:57.944 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-22 06:28:57.944 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-22 06:28:57.945 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-22 06:31:23.834 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-22 06:31:28.111 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-22 06:31:28.112 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-22 06:31:28.112 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-22 06:31:28.113 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-22 06:31:49.690 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-22 06:31:57.645 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-22 06:31:57.645 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-22 06:31:57.646 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-22 06:31:57.646 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-22 06:33:24.701 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-22 06:33:32.941 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-22 06:33:32.942 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-22 06:33:32.942 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-22 06:33:32.943 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-22 06:42:51.481 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-22 06:42:58.864 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-22 06:42:58.864 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-22 06:42:58.864 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-22 06:42:58.864 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-22 06:50:14.186 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-22 06:50:20.837 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-22 06:50:20.837 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-22 06:50:20.837 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-22 06:50:20.837 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-22 07:00:12.288 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-22 07:00:28.386 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-22 07:00:28.386 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-22 07:00:28.386 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-22 07:00:28.386 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-22 07:01:44.619 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-22 07:01:54.110 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-22 07:01:54.111 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-22 07:01:54.111 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-22 07:01:54.111 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-22 07:02:39.863 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-22 07:02:47.389 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-22 07:02:47.390 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-22 07:02:47.390 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-22 07:02:47.390 [main] BaseClass - Sample WARN message
+[INFO ] 2022-03-22 07:03:17.077 [main] BaseClass - opening chrome
+[DEBUG] 2022-03-22 07:03:24.474 [main] BaseClass - Sample DEBUG message
+[ERROR] 2022-03-22 07:03:24.475 [main] BaseClass - Sample ERROR message
+[INFO ] 2022-03-22 07:03:24.475 [main] BaseClass - Sample INFO message
+[WARN ] 2022-03-22 07:03:24.476 [main] BaseClass - Sample WARN message
